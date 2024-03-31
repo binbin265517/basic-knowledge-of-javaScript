@@ -27,7 +27,7 @@ console.log([1,2,3] instanceof Array) // true
 
 ```
 
-3、Object.prototype.toString.call(): it's refer to all types of determine test. returning data format on Object Protypes. It's result value is '[object Xxxx]
+3、Object.prototype.toString.call(): it's refer to all types of determine test. returning data format on Object Prototypes. It's result value is '[object Xxxx]
 
 ```
 function determineType (data) {
@@ -54,7 +54,6 @@ console.log(Array.isArray({})); // false
 
 
 ```
-
 
 **Overall, use specific judgments based on one's own situation.**
 
