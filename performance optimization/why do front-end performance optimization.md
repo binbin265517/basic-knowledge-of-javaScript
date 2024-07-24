@@ -1,0 +1,9 @@
+**why do front-end performance optimization？**
+Front-end performance optimization is to improve the loading speed and response speed of web pages, improve user experience and satisfaction, and reduce the pressure on the server, thereby improving the performance and stability of the entire application, and improving user retention. Specifically, there are several important reasons for front-end performance optimization:
+
+1. Improve user experience: User experience is one of the key factors for the success of a website, and page loading speed is an important part of user experience. Optimizing front-end performance can reduce page load time and improve user satisfaction and experience.
+2. Increase page visits: The better the performance of the website, the easier it is to attract users, increase page visits, and improve the traffic of the website.
+3. Improve search engine ranking: Search engines also have evaluation standards for the performance and speed of the website, the faster the page loading speed, the higher the search engine evaluation, thereby improving the ranking of the website.
+4. Reduce server pressure: Optimizing front-end performance can reduce the amount of network transmission, the number of requests, etc., thereby reducing the pressure on the server and improving the performance and stability of the entire application.
+5. Cost savings: Optimizing front-end performance can reduce the hardware configuration and maintenance costs of the server, thereby improving the economic message of the entire application.
+6. Improve user retention: When users visit the website, if the page loading speed is too slow, it is easy to make users lose patience and leave the website. Optimizing front-end performance can improve user retention and make users more willing to stay and spend on the site.
